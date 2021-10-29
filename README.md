@@ -26,3 +26,5 @@ Open the notebooks and restart and run all. However, to re-train the model follo
 
 Make sure all the files/folders in the repo is are present 
 
+# Trainned models
+output  -> folder contains two trainned models 
